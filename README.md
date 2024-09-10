@@ -44,6 +44,7 @@ The final dashboard provides a combined view of:
 - Bar charts displaying key sales measures.
 - A trend line showing the revenue trend over time.
 - Filters allowing users to slice the data by year and month for further insights.
-
+- Dynamic functionality that updates the visualizations in real-time based on user interactions with filters and selections.
+  
 ---
 
