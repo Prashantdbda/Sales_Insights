@@ -35,24 +35,6 @@ The Tableau workbook (`Sales_Insights.twb`) contains the following elements:
 4. **Final Dashboard**:
    - The combined view of all individual sheets, providing insights into overall sales performance.
 
-## Getting Started
-
-To explore this project and use the dashboard:
-
-1. **Clone this Repository**:
-   ```bash
-   git clone https://github.com/your-username/sales-insights-project.git
-   ```
-2. **Open the Tableau Workbook**:
-   - Open the `Sales_Insights.twb` file using Tableau Desktop. Ensure you have Tableau Desktop installed on your machine.
-   - You can customize the workbook further or simply explore the pre-built dashboard.
-
-## How to Use the Workbook
-
-- **Navigate Between Sheets**: Explore individual sheets to view specific visualizations such as the revenue trend or sales summary.
-- **Apply Filters**: Use the filters on the dashboard to view the sales data for specific years or months.
-- **Customize Visualizations**: Feel free to modify the existing visualizations or add new ones based on your dataset.
-- **Publishing to Tableau Online**: Once you're satisfied with the dashboard, you can publish it directly to Tableau Online for easy sharing.
 
 ## Final Dashboard
 
@@ -63,19 +45,7 @@ The final dashboard provides a combined view of:
 - A trend line showing the revenue trend over time.
 - Filters allowing users to slice the data by year and month for further insights.
 
-## How to Publish
 
-To publish the dashboard:
-
-1. Open the `Sales_Insights.twb` workbook in Tableau Desktop.
-2. Select **File > Publish to Tableau Online**.
-3. Follow the prompts to publish the dashboard and share the link with stakeholders.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 Feel free to explore, customize, and contribute to the project!
 
