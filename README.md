@@ -45,10 +45,5 @@ The final dashboard provides a combined view of:
 - A trend line showing the revenue trend over time.
 - Filters allowing users to slice the data by year and month for further insights.
 
-
-
-Feel free to explore, customize, and contribute to the project!
-
 ---
 
-Let me know if you'd like any additional changes or information included!
